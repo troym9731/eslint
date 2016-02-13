@@ -1,0 +1,11 @@
+{
+  "name": "eslin-config-troysconfig",
+  "version": "1.0.0",
+  "description": ".eslintrc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Troy Mullaney (https://github.com/troym9731)",
+  "license": "MIT"
+}

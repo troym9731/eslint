@@ -17,8 +17,7 @@ module.exports = {
       "array-bracket-spacing": [2, "never"],
       "object-curly-spacing": [2, "always"],
       "one-var": [2, "never"],
-      "space-after-keywords": 2,
-      "space-before-keywords": [2, "always"],
+      "keyword-spacing": 2,
       "space-before-blocks": 2,
       "space-before-function-paren": [2, { "anonymous": "never", "named": "never"  }],
       "space-in-parens": [2, "never"],
@@ -30,7 +29,10 @@ module.exports = {
       "es6": true,
       "browser": true
   },
-  "ecmaFeatures": {
+  "parserOptions": {
+    "sourceType": "module",
+    "ecmaFeatures": {
       "experimentalObjectRestSpread": true
+    }
   }
 };

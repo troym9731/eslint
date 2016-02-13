@@ -20,7 +20,7 @@ module.exports = {
       "space-after-keywords": 2,
       "space-before-keywords": [2, "always"],
       "space-before-blocks": 2,
-      "space-before-function-paren": [2, { "anonymous": "always", "named": "never"  }],
+      "space-before-function-paren": [2, { "anonymous": "never", "named": "never"  }],
       "space-in-parens": [2, "never"],
       "spaced-comment": [2, "always"],
       "generator-star-spacing": [2, { "before": true, "after": false }],

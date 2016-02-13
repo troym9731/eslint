@@ -11,7 +11,7 @@ module.exports = {
       "block-spacing": 2,
       "brace-style": 2,
       "comma-spacing": [2, { "before": false, "after": true }],
-      "jsx-quotes": "prefer-double",
+      "jsx-quotes": 2,
       "key-spacing": [2, { "beforeColon": false, "afterColon": true }],
       "no-lonely-if": 2,
       "array-bracket-spacing": [2, "never"],

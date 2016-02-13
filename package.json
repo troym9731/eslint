@@ -1,5 +1,5 @@
 {
-  "name": "eslin-config-troysconfig",
+  "name": "eslint-config-troysconfig",
   "version": "1.0.1",
   "description": ".eslintrc",
   "main": "index.js",

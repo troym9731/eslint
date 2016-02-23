@@ -3,7 +3,7 @@ module.exports = {
       "indent": [2, 2, { "SwitchCase": 1 }],
       "quotes": [2, "single"],
       "linebreak-style": [2, "unix"],
-      "semi": [2, "always"],
+      "semi": [2, "never"],
       "no-spaced-func": 2,
       "comma-dangle": [2, "never"],
       "eqeqeq": [2, "allow-null"],
